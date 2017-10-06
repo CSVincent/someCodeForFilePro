@@ -1,0 +1,7 @@
+#__*README*__
+
+##**Awesome Script**
+
+this script take in 2 argument: the first one for the size K, the second one
+is the directory. The code will print out the file that are larger than K
+byte in the directory.
